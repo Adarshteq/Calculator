@@ -1,10 +1,10 @@
-🧮 Calculator
+# 🧮 Calculator
 
 This repository contains a simple and stylish Calculator app built using HTML, CSS, and JavaScript.
 
 It includes a toggle switch to switch between Light and Dark modes, providing a clean and responsive user interface.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 HTML5
 
@@ -14,7 +14,7 @@ JavaScript (DOM Manipulation, Event Handling)
 
 Theme Toggle (Light/Dark Mode)
 
-🎯 Features
+# 🎯 Features
 
 -Basic arithmetic operations: addition, subtraction, multiplication, division
 
